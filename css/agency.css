@@ -172,7 +172,7 @@ header.masthead {
   background-attachment: scroll;
   background-position: center center;
   background-size: cover;
-  min-height: 100vw
+  min-height: 100vh;
 }
 
 header.masthead .intro-text {
