@@ -332,6 +332,12 @@ header.masthead .intro-text .intro-heading {
 .portfolio-modal .modal-content ul.list-inline {
   margin-top: 0;
   margin-bottom: 30px;
+  list-style-type: disc;
+  text-align: left;
+}
+
+.portfolio-modal .modal-content li {
+  text-align:left;
 }
 
 .portfolio-modal .modal-content img {
